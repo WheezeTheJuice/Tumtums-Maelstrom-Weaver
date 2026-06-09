@@ -1,6 +1,7 @@
 # Tumtum's Maelstrom Weaver
 
 This is a WeakAuras package for WotLK (3.3.5a client, specifically designed for AzerothCore) enhancement shaman spell-weaving. It overlays main-hand/off-hand swing timing, spell cast thresholds, sync state, latency-adjusted safe windows, and optional maelstrom/gcd helpers.
+
 gist: https://gist.github.com/WheezeTheJuice/bbe088b0a4cb4e906828b6263634dfde
 
 ## Features
