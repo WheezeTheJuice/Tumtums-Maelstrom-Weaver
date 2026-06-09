@@ -1,11 +1,11 @@
 # Tumtum's Maelstrom Weaver
 
-This is a WeakAuras package for WotLK (3.3.5a client) enhancement shaman spell-weaving. It overlays main-hand/off-hand swing timing, spell cast thresholds, sync state, latency-adjusted safe windows, and optional maelstrom/gcd helpers.
+This is a WeakAuras package for WotLK (3.3.5a client, specifically designed for AzerothCore) enhancement shaman spell-weaving. It overlays main-hand/off-hand swing timing, spell cast thresholds, sync state, latency-adjusted safe windows, and optional maelstrom/gcd helpers.
 
 ## Features
 
 - Main-hand swing timer with safe weave window
-- Off-hand “too early” threshold
+- Off-hand “too early” threshold (AzerothCore forces a 0.20 second offset between main-hand and off-hand swings, even if your dual-wield weapons have the same speed and are synced). This threshold tick represents that information.
 - Lightning bolt and chain lightning cast thresholds
 - Latency-adjusted spell ticks
 - Chain lightning/lightning bolt safe-window coloring
