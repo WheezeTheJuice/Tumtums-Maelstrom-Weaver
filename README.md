@@ -13,7 +13,7 @@ This is a WeakAuras package for WotLK (3.3.5a client, specifically designed for 
   - Blue = lightning bolt fallback
 - Main-hand/off-hand sync detection
 - Melee-context gating to suppress fake ranged-cast swing cycles
-- Optional gcd overlay
+- Optional GCD overlay
 - Optional maelstrom tracker
 - Optional 5-stack maelstrom glow for the maelstrom tracker
 - Optional debug text
